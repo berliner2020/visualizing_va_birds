@@ -1,0 +1,8 @@
+# secrets
+config.py
+
+# data
+test.json
+
+# data analysis
+*.ipynb
